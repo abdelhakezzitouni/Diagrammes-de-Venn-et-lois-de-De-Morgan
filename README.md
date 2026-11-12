@@ -22,4 +22,4 @@ npm run dev
 
 ---
 
-Designed & Built with ❤️ by Abdelhak Ezzitouni
+by Abdelhak Ezzitouni
